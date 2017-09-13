@@ -1,0 +1,109 @@
+body{ 
+	   background-image:  url("parthenon1.png");
+	  background-repeat: no-repeat;
+	  background-color: #003466;
+      margin-left: 5%;
+      margin-top: 3%;
+      margin-right: 5%;
+      }
+
+
+
+.esquina{
+	position: relative;
+	margin-left: 7.1%;
+	height: .52em;
+    z-index: -1;
+    background-color: #a9a9a9;
+    opacity: 0.5;
+    
+
+}
+
+.esquina1{
+	
+	
+    margin-left:  99.32%;
+	width: .52em;
+	height: 2em;
+    z-index: -1;
+    background-color: #a9a9a9;
+    opacity: 0.5;
+
+}
+.pic{
+	
+	display: inline;
+	
+}
+.ancient{
+	position: absolute;
+	z-index: -1;
+}
+
+.lin{position: relative;
+    opacity: .5;
+    width:9em;
+    height: 1.5em;
+    margin-left: 1.3%;
+    margin-right: 5%;
+    margin-top: 55%;
+    background-color:#ceaf93;  
+    
+
+}
+.test{
+	bottom: 25px;
+	left: 800px;
+	position: relative;
+}
+
+
+.winged{
+	display: inline;
+	
+
+width: 20%;
+border:0.1em solid red ;
+height: 35%;
+margin-top: 80%;
+
+}
+
+.diadumenos{
+	display: inline;
+	padding-top: -30%;
+	
+width: 20%;
+border:0.1em solid red ;
+height: 35%;
+margin-top: 80%;
+
+}
+.achilles{
+	display: inline;
+	padding-top: -30%;
+	z-index: 1;
+width: 35%;
+border:0.1em solid red ;
+height: 20%;
+margin-top: 8%;
+
+
+}
+
+
+
+
+
+h1{ 
+    color: #ceaf93;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 1.5em;
+}
+h2{ 
+	color: #ceaf93;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 2.8em;
+}
+
